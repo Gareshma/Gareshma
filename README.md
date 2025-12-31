@@ -51,7 +51,7 @@ Always happy to connect with fellow developers, designers, or anyone who loves b
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gareshma.nagalapatti@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gareshma-nagalapatti/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gareshma.github.io/Gareshma_Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gareshma.com)
 
 **Drop a message anytime:** [gareshma.nagalapatti@gmail.com](mailto:gareshma.nagalapatti@gmail.com)
 
