@@ -1,48 +1,81 @@
 ## Hey there, I'm Gareshma! 👋  
-Once upon a time, I wrote my first `Hello World`. Now, **3.5** years later, I’m building scalable backends, clean APIs, and integrations that make enterprise apps behave nicely.  
+Once upon a time, I wrote my first `Hello World`. Now, nearly **4 years** later, I’m building scalable backends, clean APIs, and integrations that make enterprise applications work reliably and efficiently.
 
 Currently, I’m pursuing my **Master’s in Computer Science** at **Santa Clara University**, where I’m perfecting the art of making code elegant, efficient, and slightly magical.
 
 Currently exploring **Python** & **Swift**, chasing the dream of becoming a true **Full Stack Developer**.
 
 
-## Skills
+## Tech Stack I Work With
 
-Here’s what I reach for when building something cool  
+### Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Languages & Frameworks  
+---
 
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](#)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](#)
-[![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](#)
+### Backend, DevOps & Tooling
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%230078D4.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### DevOps & Tools  
+---
 
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)](#)
-[![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)](#)
-[![VS Code](https://img.shields.io/badge/VS_Code-%230078D4.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)](#)
+### Databases & Cloud
+![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Databases & Cloud  
+> Always exploring tools that improve **performance, reliability, and developer experience**.
 
-[![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)](#)
-[![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
-
-_Always exploring new tools that make coding faster, cleaner, and a bit more fun._
+---
 
 ## Featured Projects
 
 ### [URL Shortener & Organizer](https://github.com/Gareshma/URL)
-- A Flask app that turns long URLs into tidy, custom aliases - because nobody remembers `xyz123/?param=abcd`.  
+**Flask | REST APIs | Docker | CI/CD**
 
-- Deployed via **Docker** and **Azure CI/CD**, it handles builds, tests, and deployments automatically, keeping link sharing fast and maintenance-free.  
+A production-ready URL management service that:
+- Converts long URLs into **custom, shareable short links**
+- Organizes links with metadata for easier reuse
+- Is fully containerized using **Docker**
+- Uses **CI/CD pipelines** for automated builds, testing, and deployment
 
+---
 
 ### [Fake Job Posting Detector](https://github.com/Gareshma/fake_job_posting)
-- Built a **machine learning web app** to help users spot fake job listings before they become victims of fraud. 
+**Machine Learning | Flask | XGBoost | One-Class SVM | GloVe**
 
-- Used **Flask**, **XGBoost**, **One-Class SVM**, and **GloVe embeddings** to achieve **97.5% accuracy** and a **0.845 F1-score** - proving not every “dream job” is real, but the model is. 
+- Built an end-to-end **machine learning pipeline**
+- Used **GloVe embeddings** for text representation
+- Achieved **97.5% accuracy** and **0.845 F1-score**
+- Deployed as an interactive **Flask web app**
+
+---
+
+## Additional Projects
+
+### [RAG Knowledge Assistant](https://github.com/Gareshma/rag-knowledge-assistant)
+**Java | Spring Boot | RAG | Vector Search**  
+
+- Built a **RAG service** that ingests documents and answers questions with supporting context.
+- Implemented text chunking and vector retrieval using in-memory storage or Postgres.
+- Added OpenAPI documentation, validation, and centralized error handling.
+
+---
+
+### [Webhook Delivery Platform](https://github.com/Gareshma/webhook-delivery-platform)
+**Java | Spring Boot | Distributed Systems | PostgreSQL**
+
+- Built a reliable webhook delivery system with subscriptions and event publishing.
+- Added HMAC signing, idempotency, retries with exponential backoff.
+- Implemented failed-delivery replay with persistence in PostgreSQL.
+
+---
 
 
 ## Let’s Build Something Cool  
