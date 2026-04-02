@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=7B61FF&center=true&vCenter=true&width=1000&lines=Software+Engineer;Backend+Developer;AI+Engineer;Python+%7C+Java+%7C+Spring+Boot+%7C+RAG+%7C+SQL+%7C+REST+APIs+%7C+Microservices+%7C+Docker;Building+reliable+systems+and+clean+APIs;Exploring+AI%2C+Cloud%2C+and+Full+Stack+Development" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=7B61FF&center=true&vCenter=true&width=1000&lines=Software+Engineer;Backend+Developer;AI+Engineer;Python+%7C+Java+%7C+Spring+Boot+%7C+RAG+%7C+SQL+%7C+REST+APIs+%7C+Microservices;Building+reliable+systems+and+clean+APIs;Exploring+AI%2C+Cloud%2C+and+Full+Stack+Development" alt="typing animation" />
 </p>
 
 <p align="center">
